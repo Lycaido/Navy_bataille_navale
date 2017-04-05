@@ -1,0 +1,13 @@
+/*
+** README for readme in /home/Rev/epitech_project_git/PSU_2016_navy
+** 
+** Made by Roméo Nahon
+** Login	 <Rev@epitech.net>
+** 
+** Started on	Thu Mar	23 22:45:57 2017 Roméo Nahon
+** Last update	Thu Mar	23 22:45:57 2017 Roméo Nahon
+*/
+
+pour jouer, ouvrez 2 terminaux, lancer le "./navy pos1"
+dans le 2er terminal puis dans le second rentrez "./navy [pid joueur 1] pos2"
+si le binaire n'est pas présent executez "make re"
